@@ -55,7 +55,7 @@ Clone the `Pluto-Update` repository using git:
 
 ```bash
 git clone https://github.com/kumargautam2024/Online-Shopping-Website
-cd Pluto-Update
+cd Online-Shopping-Website
 ```
 
 ## Tech Stack
