@@ -8,9 +8,6 @@ the user.
 I've Implemented backend part and features like user Authentication, search products by catagory or brands, invoice generation, 
 checking order history, sending confirmation email after payment etc.
 
-## Live Demonstration
-
-The E-commerce demo can be [viewed online here](http://pluto-update.epizy.com/Pluto-Update-master/index.html).
 
 Here are screenshots that show the E-commerce demo application in use.
 
@@ -57,7 +54,7 @@ To get started  you can simply clone this repository and install the dependencie
 Clone the `Pluto-Update` repository using git:
 
 ```bash
-git clone https://github.com/johmn123-wq/Pluto-Update
+git clone https://github.com/kumargautam2024/Online-Shopping-Website
 cd Pluto-Update
 ```
 
