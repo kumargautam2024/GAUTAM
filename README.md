@@ -1,4 +1,4 @@
-# E-commerce Website
+# Online Shopping Website
 
 Developed a Customer-Seller interaction e-commerce website which loads products a MongoDB databse and displays them. 
 Users can select to display products in multiple categories and brands. User can also search products and select items
